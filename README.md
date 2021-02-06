@@ -1,12 +1,3 @@
-<h1 align="center">
-    <a href="https://umpontoseis.com/" target="_blank">
-      <img alt="umpontoseis" title="#umpontoseis" src=".github/umpontoseis-logo.svg" width="250px" />
-    </a>
-</h1>
-
-<h1 align="center">
-    <img alt="marvel" title="#marvel" src=".github/logo.svg" width="250px" />
-</h1>
 
 <h4 align="center">
   🚀 umpontoseis - Marvel Heroes API
@@ -59,10 +50,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/WallysonGalvao/umpontoseis-marvel-api.git
+$ git clone https://github.com/Lftho/mobile-marvel-backend.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd umpontoseis-marvel-api
+$ cd mobile-marvel-backend
 
 # Instale as dependências
 $ yarn install
@@ -129,19 +120,3 @@ $ yarn start
 <p align="center">
     <img alt="marvel" title="#marvel" src=".github/ant-man.jpg" width="300px" />
 </p>
-
-## :construction: Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-awesome-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My awesome feature"`
-4. Envie as suas alterações: `git push origin my-awesome-feature`
-   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com horas em frente ao :computer: por [Wallyson Galvão](https://www.linkedin.com/in/wallyson-galvao/)
