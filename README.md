@@ -1,6 +1,6 @@
 
 <h4 align="center">
-  🚀 umpontoseis - Marvel Heroes API
+  Marvel Heroes API
 </h4>
 
 <p align="center">
