@@ -107,16 +107,9 @@ $ yarn start
 ]
 ```
 
-- **`/chars/<image_name>`**: Mostra a imagem do personagem. Ex. http://localhost:3333/chars/spider-man.png
-  <p>Ex. http://localhost:3333/chars/spider-man.png
-
-<p align="center">
-    <img alt="marvel" title="#marvel" src=".github/spider-man.png" width="300px" />
-</p>
+- **`/chars/<image_name>`**: Mostra a imagem do personagem. Ex.https://mobile-marvel-backend-v1.herokuapp.com/chars/spider-man.png
+  <p>Ex. https://mobile-marvel-backend-v1.herokuapp.com/chars/spider-man.png
 
 - **`/movies/<image_name>`**: Mostra a imagem da capa de um filme.
-   <p>Ex. http://localhost:3333/movies/ant-man.jpg
-</p>
-<p align="center">
-    <img alt="marvel" title="#marvel" src=".github/ant-man.jpg" width="300px" />
+   <p>Ex.https://mobile-marvel-backend-v1.herokuapp.com//movies/ant-man.jpg
 </p>
